@@ -17,6 +17,11 @@
             <p class="font-bold">Driving Course</p>
           </a>
         </div>
+        <div>
+          <a href="/dashboard" wire:navigate class="text-white bg-blue-700 hover:bg-blue-800 focus:ring-4 focus:ring-blue-300 font-medium rounded-lg text-sm px-5 py-2.5 mr-2 mb-2 focus:outline-none">
+            Dashboard
+          </a>
+        </div>
       </nav>
     </header>
 
@@ -338,12 +343,12 @@
               <dd class="text-2xl font-bold leading-9 tracking-tight text-white">Jl. XYZ No.99, Mars Pusat</dd>
             </div>
             <div class="flex flex-col-reverse">
-              <dt class="text-base leading-7 text-gray-300">0987654321</dt>
-              <dd class="text-2xl font-bold leading-9 tracking-tight text-white">No Telepon</dd>
+              <dt class="text-base leading-7 text-gray-300">No Telepon</dt>
+              <dd class="text-2xl font-bold leading-9 tracking-tight text-white">0987654321</dd>
             </div>
             <div class="flex flex-col-reverse">
-              <dt class="text-base leading-7 text-gray-300">DrivingCourseMars</dt>
-              <dd class="text-2xl font-bold leading-9 tracking-tight text-white">Instagram</dd>
+              <dt class="text-base leading-7 text-gray-300">Instagram</dt>
+              <dd class="text-2xl font-bold leading-9 tracking-tight text-white">DrivingCourseMars</dd>
             </div>
           </dl>
         </div>
